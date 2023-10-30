@@ -1,5 +1,5 @@
 # BPA Web Design Contest
-Landon W, Gavin D, Cameron S, Connor C. WOAH!
+Landon W, Gavin D, Cameron S, Connor C. WOAH! WOAH 2!!
 
 ## (435) [Website Design Team](https://cvtech.instructure.com/courses/889/files/347039?module_item_id=305995)
 A new restaurant, Game Day Grill, has contracted your team to create a website for them. Your site must include, but is not limited to: menus, online ordering and payment, special event listing, address and contact information, and reservation information.
