@@ -8,8 +8,8 @@ A new restaurant, Game Day Grill, has contracted your team to create a website f
 
 ### Roles & To-Do's
 Landon W. - Project Manager
-* ~~Create Github Repo.
-* ~~Plan roles for everyone.
+* ~~Create Github Repo.~~
+* ~~Plan roles for everyone.~~
 * Make Cart & Payment Pages.
 * Add Cart icon to menu.
 
