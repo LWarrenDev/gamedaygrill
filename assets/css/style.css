@@ -182,7 +182,7 @@ h6 {
 
 #hero .btn-get-started {
   background: #FC814A;
-  border: 2px solid #FC814A;
+  border: 2px solid #fff;
   color: #fff;
 }
 
@@ -193,13 +193,14 @@ h6 {
 }
 
 #hero .btn-services {
+  background:#FC814A;
   border: 2px solid #fff;
   color: #fff;
 }
 
 #hero .btn-services:hover {
-  background: #FC814A;
-  border: 2px solid #FC814A;
+  background: none;
+  border: 2px solid #fff;
 }
 
 /*--------------------------------------------------------------
