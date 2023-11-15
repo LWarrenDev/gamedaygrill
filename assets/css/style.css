@@ -24,7 +24,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-  color: #03c5ec;
+  color: #FC814A;
   outline: none;
   text-decoration: none;
 }
@@ -686,7 +686,7 @@ section {
   bottom: 0;
   z-index: 3;
   transition: all ease-in-out 0.3s;
-  background: rgba(255, 255, 255, 0.85);
+  background: #576066;
   padding: 15px;
 }
 
@@ -694,12 +694,12 @@ section {
   font-size: 18px;
   color: #fff;
   font-weight: 600;
-  color: #333333;
+  color: #FC814A;
   margin-bottom: 5px;
 }
 
 #portfolio .portfolio-item .portfolio-info p {
-  color: #666666;
+  color: #ffffff;
   font-size: 14px;
   margin-bottom: 0;
 }
