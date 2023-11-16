@@ -24,7 +24,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-  color: #03c5ec;
+  color: #FC814A;
   outline: none;
   text-decoration: none;
 }
@@ -98,7 +98,7 @@ h6 {
   display: table;
   width: 100%;
   height: 100vh;
-  background: url(../img/image_720.png) top center;
+  background: url(../img/hero-bg.png) top center;
   background-size: cover;
 }
 
@@ -117,7 +117,7 @@ h6 {
 }
 
 #hero .hero-container {
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(0, 0, 0, .5);
   display: table-cell;
   margin: 0;
   padding: 0;
@@ -207,10 +207,11 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: #576066;
-  transition: all 0.5s;
+  background: rgba(0, 0, 0, .6);
+  transition: all 2s;
   z-index: 997;
   height: 70px;
+
 }
 
 @media (max-width: 992px) {
@@ -220,7 +221,7 @@ h6 {
 }
 
 #header.fixed-top {
-  background: rgba(0, 0, 0, 0.85);
+  background: rgba(0, 0, 0, 0.5);
 }
 
 #header .logo {
@@ -685,7 +686,7 @@ section {
   bottom: 0;
   z-index: 3;
   transition: all ease-in-out 0.3s;
-  background: rgba(255, 255, 255, 0.85);
+  background: #576066;
   padding: 15px;
 }
 
@@ -693,12 +694,12 @@ section {
   font-size: 18px;
   color: #fff;
   font-weight: 600;
-  color: #333333;
+  color: #FC814A;
   margin-bottom: 5px;
 }
 
 #portfolio .portfolio-item .portfolio-info p {
-  color: #666666;
+  color: #ffffff;
   font-size: 14px;
   margin-bottom: 0;
 }
