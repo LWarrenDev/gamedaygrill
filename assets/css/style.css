@@ -791,7 +791,7 @@ section {
   padding: 0;
 }
 
-/* Testimonials Section
+/* Reviews Section
 --------------------------------*/
 #testimonials {
   background: #D8DBE2;
@@ -1064,4 +1064,29 @@ section {
 }
 #footerSocials {
   text-align: center;
+}
+
+/*--------------------------------------------------------------
+# Newly Added
+--------------------------------------------------------------*/
+.bi{
+  color: #D8DBE2;
+  padding-top: -20px;
+}
+.bi:hover{
+  color: #FC814A;
+}
+.bi-search{
+  transform: scale(0.5);
+}
+
+div.quote b img{
+  filter: brightness(0);
+}
+.portfolio-item{
+  transition: all 1.5s ease;
+}
+.portfolio-item:hover{
+  transition: all 1.5s ease;
+  transform: scale(1.05);
 }
