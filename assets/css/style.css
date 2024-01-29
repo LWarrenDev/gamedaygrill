@@ -97,13 +97,13 @@ h6 {
 #hero {
   display: table;
   width: 100%;
-  height: 100vh;
-  background: url(../img/hero-bg.png) top center;
+  height: calc(2vh);
+  background: url(../img/image.png) center center;
   background-size: cover;
 }
 
 @media (min-width: 1024px) {
-  #hero {
+  #hero {l
     background-attachment: fixed;
   }
 }
@@ -1089,4 +1089,15 @@ div.quote b img{
 .portfolio-item:hover{
   transition: all 1.5s ease;
   transform: scale(1.05);
+}
+
+.shop {
+  width:500px;
+  margin:50px ;
+  float:right;
+  top:-40px;
+}
+
+.shop-item-image{
+  max-height: 130px;
 }
