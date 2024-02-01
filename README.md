@@ -41,5 +41,5 @@ Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
 
 <!-- Sync -->
-<!-- Sync -->
+
 <!-- Sync -->
